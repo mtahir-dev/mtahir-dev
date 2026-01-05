@@ -1,71 +1,126 @@
-## Hi there 👋 I'm Muhammad Tahir
+## 👋 Hi, I'm Muhammad Tahir
 
-🚀 **Full-Stack Developer (MERN Stack) | Team Lead**  
-💼 2+ years of experience building scalable web applications  
-🎨 Strong interest in website & mobile app design  
+🚀 **Senior Full Stack Developer | MERN Lead | SaaS Engineer**  
+🏗️ Building scalable, secure, and high-performance web platforms  
+💳 Payments, Banking, Property-Tech & Enterprise Systems Specialist  
 
 ---
 
-### 👨‍💻 About Me
-I’m a results-driven **Full-Stack Developer** with hands-on experience in building and maintaining modern web applications using the **MERN stack**. I enjoy collaborating with cross-functional teams, integrating third-party services, and designing secure, scalable architectures. Currently working as a **Team Lead**, where I guide developers and ensure smooth project delivery.
+### 👨‍💻 Who I Am
+I’m a **Senior Full Stack Developer with 4+ years of experience** designing and delivering **enterprise-level SaaS platforms** using the MERN stack, AWS services, and complex third-party integrations.
+
+I currently serve as a **MERN Lead & Team Lead**, where I:
+- Architect complete systems
+- Lead development teams
+- Integrate payment, banking, and verification services
+- Deliver production-ready, scalable products for real businesses
+
+I focus on **clean architecture, performance optimization, and real-world problem solving** — not just writing code.
+
+---
+
+### 🧠 Core Expertise
+- End-to-end SaaS product development
+- System architecture & API design
+- Secure payment & financial integrations
+- Team leadership & project ownership
+- Performance optimization & scalability
 
 ---
 
 ### 🛠️ Tech Stack
-**Frontend**
+
+#### Frontend
 - React.js, Next.js
-- JavaScript (ES6+)
-- Tailwind CSS, DaisyUI
-- Formik, Zustand
+- Tailwind CSS, Material UI, Ant Design
+- Zustand, Redux Toolkit, Formik
+- Responsive & UX-focused design
 
-**Backend**
+#### Backend
 - Node.js, Express.js
-- MongoDB, Mongoose
-- REST APIs
+- RESTful APIs, Webhooks
+- Role-Based Access Control (RBAC)
+- Socket.io, OAuth
 
-**Tools & Others**
-- Git & GitHub
-- Postman
-- AWS (basic)
+#### Databases
+- MongoDB, PostgreSQL, MySQL
+- Mongoose, Prisma, Sequelize
+
+#### Payments, Banking & Verification
+- **Stripe** (Embedded, Connect, Payment Intents, Transactions)
+- **Plaid** (ID Verification, Income Verification)
+- **TransUnion** integrations
+
+#### Cloud & DevOps
+- AWS (S3, Lambda, EventBridge)
+- Docker, GitHub
 - CI/CD collaboration with DevOps teams
-- Third-party integrations (APIs, payment gateways, credit checks, etc.)
 
 ---
 
-### 🔭 Currently Working On
-- MERN-based property management systems  
-- Performance optimization & API handling  
-- Improving UI/UX for web applications  
+### 🏗️ Flagship Projects
+
+#### 🏢 Digital Tenant (SaaS – Property Management)
+- MERN-based enterprise platform with **Landlord, Tenant & Service Professional portals**
+- Digital leasing, online rent payments, maintenance workflows
+- Stripe & Plaid integrations for secure payments and bank verification
+- Led architecture, development, and deployment
+
+🔗 https://digitalapp.technoholicasprojects.com/
 
 ---
 
-### 🌱 Currently Learning
-- Advanced system design
-- Scalable architecture patterns
-- Improving frontend performance & accessibility  
+#### 🏘️ Spade Rent (SaaS – Property Management)
+- Scalable MERN platform for landlords & tenants
+- Lease management, tenant onboarding, rent payments
+- Focused on performance, security, and real-world usability
+- Led team from planning to production
+
+🔗 http://app.spaderent.com/
 
 ---
 
-### 👯 Looking to Collaborate On
-- MERN stack projects  
-- Web & mobile app development  
-- Startup or SaaS-based products  
+#### 🧾 Invoice Management System
+- Node.js backend with **19 modules & 70+ APIs**
+- High-performance financial workflows
+- Designed for scalability and enterprise usage
 
 ---
 
-### 💬 Ask Me About
-- React & MERN stack development  
-- API integrations  
-- State management (Zustand)  
-- Project structure & best practices  
+#### 🧠 Health Recommendation System
+- Next.js application generating personalized health insights
+- PDF-based reports based on age & health inputs
+
+🔗 https://map-health-recommendation.vercel.app/en
 
 ---
 
-### 📫 How to Reach Me
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
-- 📧 Email: *(add your professional email here)*  
+### 💼 Professional Experience
+- **Senior Full Stack Developer / MERN Lead** — Technoholic Advance Solutions (USA)
+- **Software Engineer** — Tekvek
+- **MERN Stack Developer** — AIMs Technologies
+- **Full Stack Developer** — Fiverr
+
+---
+
+### 🎓 Education
+**Bachelor’s in Computer Science**  
+Sukkur IBA University — CGPA: **3.52 / 4.0**
+
+---
+
+### 🏆 Honors
+- Merit-Based Scholarship (Academic Excellence)
+
+---
+
+### 📫 Let’s Connect
+- 🌐 Portfolio: https://tahir-great-developer.netlify.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/tahir-developer  
+- 💻 GitHub: https://github.com/mtahir-dev  
+- 📧 Email: tahirjs.dev@gmail.com  
 
 ---
 
 ### ⚡ Fun Fact
-I’m a developer who loves **designing interfaces** more than writing backend logic 😄
+I enjoy **designing product architecture and user experience** more than writing boilerplate code.
