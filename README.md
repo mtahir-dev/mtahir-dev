@@ -120,7 +120,7 @@ Sukkur IBA University — CGPA: **3.52 / 4.0**
 
 ### 📫 Let’s Connect
 - 🌐 Portfolio: https://tahir-great-developer.netlify.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/tahir-developer  
+- 💼 LinkedIn: https://www.linkedin.com/in/mtahir-dev 
 - 💻 GitHub: https://github.com/mtahir-dev  
 - 📧 Email: tahirjs.dev@gmail.com  
 
