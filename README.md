@@ -66,7 +66,7 @@ I focus on **clean architecture, performance optimization, and real-world proble
 - Stripe & Plaid integrations for secure payments and bank verification
 - Led architecture, development, and deployment
 
-🔗 https://app.digitaltenant.com/  
+🔗 https://www.app.digitaltenant.com/  
 **Note:** Due to security and compliance requirements, this application is accessible only within the United States.  
 If you are accessing from outside the US, please use a US-based VPN.
 
