@@ -66,7 +66,7 @@ I focus on **clean architecture, performance optimization, and real-world proble
 - Stripe & Plaid integrations for secure payments and bank verification
 - Led architecture, development, and deployment
 
-🔗 https://www.app.digitaltenant.com/
+🔗 https://app.digitaltenant.com/  
 **Note:** Due to security and compliance requirements, this application is accessible only within the United States.  
 If you are accessing from outside the US, please use a US-based VPN.
 
@@ -78,7 +78,7 @@ If you are accessing from outside the US, please use a US-based VPN.
 - Focused on performance, security, and real-world usability
 - Led team from planning to production
 
-🔗 http://app.spaderent.com/
+🔗 http://app.spaderent.com/  
 **Note:** Due to security and compliance requirements, this application is accessible only within the United States.  
 If you are accessing from outside the US, please use a US-based VPN.
 
